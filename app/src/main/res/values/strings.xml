@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="schedule">Schedule</string>
+    <string name="past">Past</string>
+    <string name="notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="theme">Theme</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Task Description</string>
+    <string name="date_time">Date and Time (YYYY-MM-DD HH:MM)</string>
+    <string name="add_task">Add Task</string>
+    <string name="past_tasks">Past Tasks</string>
+    <string name="please_fill_all_fields">Please fill all fields</string>
+    <string name="profile_saved_successfully">Profile saved successfully</string>
+</resources> 
